@@ -134,12 +134,12 @@ Experimented Models:
 |Voting Classifier (random forest + logistic regression) | 82.5%| 
 
 ## Hyper-parameter Tuning: Optuna Framework
-#### Model's objective fMnction
+#### Model's Objective Function
 
 ```mermaid
 flowchart TD
-    val_score["val_score <br/> cross-validation accuracy"]
-    test_score["test_score <br/> accuracy on test set"]
+    val_score["val_score: <br/> cross-validation accuracy"]
+    test_score["test_score: <br/> accuracy on test set"]
     compute["Compute 'gap' = test_score - val_score"]
     return["Return <br/> 'val_score' & 'gap'"]
     val_score --> compute 

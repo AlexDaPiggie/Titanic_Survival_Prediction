@@ -137,7 +137,7 @@ Experimented Models:
 #### Model's objective fMnction
 
 ```mermaid
-flowchart LR
+flowchart TD
     val_score["val_score <br/> cross-validation accuracy"]
     test_score["test_score <br/> accuracy on test set"]
     compute["Compute 'gap' = test_score - val_score"]
@@ -156,7 +156,7 @@ flowchart LR
 Calculate the distance to the ideal hyperparamter set
 
 ```mermaid
-flowchart LR 
+flowchart TD 
     obj["Objective Function"]
     direction["Maximize 'val_score' & Minimize 'gap'"]
     floor["gap = min(gap, 0)"]

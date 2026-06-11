@@ -4,7 +4,7 @@
 This is my solution for the Kaggle Competition: [Titanic - Machine Learning From Disaster](https://www.kaggle.com/competitions/titanic). The goal of the competition is to build a Machine Learning model that predicts  whether a passenger survived the Titanic disaster based on their passenger information. 
 
 ## Performance 
-* Rank: 270/12.885 - top 2.3%
+* Rank: 260/12.885 - top 2.3%
 * Leaderboard Accuracy: 82.535%
 * Please upvote this [Kaggle Notebook](https://www.kaggle.com/code/hoaiphongnguyen/how-to-get-82-5-in-titanic-leaderboard) if you find helpful - this helps other Kaggler to find it more easily!
 

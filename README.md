@@ -80,7 +80,7 @@ This is my solution for the Kaggle Competition: [Titanic - Machine Learning From
     <img src = "Images/Feature_Importances.png" width = 70% alt = 'Sex Survived'>
 </p>
 
-#### It is created as the following diagram:
+#### 'Survival_Rate' is created as the following diagram:
 
 ```mermaid
 flowchart LR 

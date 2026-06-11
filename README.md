@@ -94,7 +94,7 @@ flowchart LR
     Accompany["Accompany = SibSp+Parch+1"]
 
     group["Grouped"]
-    target["Target Encoded on 'Survived'"]
+    target["Target Encoded on 'Survived' feature"]
     Survival_Rate["Survival_Rate"]
 
     Name --> Family_Name

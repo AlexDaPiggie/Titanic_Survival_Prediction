@@ -171,6 +171,9 @@ flowchart TD
 
 By combining the logic from Objective function and Fine-tune function, the program can evaluate the model's ability to generalize (recognizing patterns instead of remembering). As distance = sqrt ((1 - accuracy) ** 2 + (gap) ** 2), the smaller distance is, the better model can generalize
 
+
+Please check out the notebook `Titanic_notebook.ipynb` for any more details.
+
 ## Reference
 
 This notebook couldn't been completed without referencing the wonderful works of the following authors:

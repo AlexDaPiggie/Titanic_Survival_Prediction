@@ -120,7 +120,7 @@ Experimented Models:
 
 ### Performance on Validation set:
 <p align = 'left'>
-    <img src = "Images/Validation_Performance.png" width = 30%>
+    <img src = "Images/Validation_Performance.png" width = 50%>
 </p>
 
 ### Leaderboard Result after Fine-tuning: 

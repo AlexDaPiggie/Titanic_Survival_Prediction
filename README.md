@@ -134,7 +134,7 @@ Experimented Models:
 |Voting Classifier (random forest + logistic regression) | 82.5%| 
 
 ## Hyper-parameter Tuning: Optuna Framework
-#### *model's objective* function
+#### Model's objective fMnction
 
 ```mermaid
 flowchart LR
@@ -147,11 +147,12 @@ flowchart LR
     compute --> return 
 ```
 
-<p center = 'center'>
-    <img src = "Images/Objective_logic.png" width = 40% alt = 'objective'>
+**Code:**
+<p align = 'left'>
+    <img src = "Images/Objective_Logic.png" width = 50% alt = 'objective'>r
 </p>
 
-#### *fine_tune* function
+#### Fine_tune function
 Calculate the distance to the ideal hyperparamter set
 
 ```mermaid
@@ -163,9 +164,9 @@ flowchart LR
 
     obj --> direction --> floor --> distance
 ```
-
+**Code:**
 <p center = 'left'>
-    <img src = "Images/Finetune_logic.png" width = 70% alt = 'objective'>
+    <img src = "Images/Finetune_Logic.png" width = 50% alt = 'objective'>r
 </p>
 
 

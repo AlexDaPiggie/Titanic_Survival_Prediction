@@ -3,9 +3,6 @@
 ## Overview 
 This is my solution for the Kaggle Competition: [Titanic - Machine Learning From Disaster](https://www.kaggle.com/competitions/titanic). The goal of the competition is to build a Machine Learning model that predicts  whether a passenger survived the Titanic disaster based on their passenger information. 
 
-
-**pip install -r requirements.txt** to DOWNLOAD requirements
-
 ## Performance 
 * Rank: 260/12.885 - top 2.3%
 * Leaderboard Accuracy: 82.535%
@@ -30,6 +27,9 @@ This is my solution for the Kaggle Competition: [Titanic - Machine Learning From
 |   |-- ...
 |   |-- xg_tuned.csv
 ```
+
+**pip install -r requirements.txt** to DOWNLOAD requirements
+
 
 **If you don't have Kaggle API to fetch the data:**
 * DOWNLOAD test.csv and train.csv [here](https://www.kaggle.com/competitions/titanic/data)

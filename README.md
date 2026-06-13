@@ -28,6 +28,7 @@ This is my solution for the Kaggle Competition: [Titanic - Machine Learning From
 |   |-- xg_tuned.csv
 ```
 
+## NOTICE
 **pip install -r requirements.txt** to DOWNLOAD requirements
 
 
